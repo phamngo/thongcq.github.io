@@ -1,0 +1,43 @@
+ Volume in drive E is WORK
+ Volume Serial Number is 0066-7B75
+
+ Directory of E:\PROJECT\2017\SeagullVN\trucking\HTML\img
+
+07/07/2017  06:45 AM    <DIR>          .
+07/07/2017  06:45 AM    <DIR>          ..
+05/15/2015  05:18 PM               261 accordion-closed.png
+05/15/2015  05:18 PM               326 accordion-closed@2x.png
+05/15/2015  05:19 PM               184 accordion-opened.png
+05/15/2015  05:19 PM               245 accordion-opened@2x.png
+05/11/2015  03:11 PM               215 arrow.png
+05/11/2015  03:12 PM               268 arrow@2x.png
+07/06/2017  07:03 PM    <DIR>          blog
+08/20/2014  08:54 PM             3,288 bullets.png
+05/18/2015  03:52 PM               168 de.png
+05/18/2015  03:52 PM               680 en.png
+05/11/2015  03:21 PM           453,008 footer-bkg.png
+05/18/2015  03:52 PM               175 it.png
+05/25/2015  01:14 PM             4,008 logo-light.png
+05/04/2015  04:26 PM             4,683 logo.png
+05/15/2015  12:28 PM               446 nivo-events.png
+05/15/2015  12:28 PM               758 nivo-events@2x.png
+11/06/2014  11:56 AM             1,001 nivo-next-nav.png
+06/01/2015  01:57 PM               335 nivo-next-nav@2x.png
+11/06/2014  11:57 AM             1,002 nivo-prev-nav.png
+06/01/2015  01:57 PM               356 nivo-prev-nav@2x.png
+07/07/2017  06:44 AM    <DIR>          pics
+05/11/2015  02:56 PM               585 pin.png
+05/11/2015  03:01 PM             1,028 pin@2x.png
+05/11/2015  10:35 AM               265 search.png
+05/11/2015  10:35 AM               422 search@2x.png
+07/06/2017  07:03 PM    <DIR>          slider
+05/11/2015  03:12 PM               228 subscribe.png
+05/11/2015  03:12 PM               322 subscribe@2x.png
+07/06/2017  07:03 PM    <DIR>          svg
+07/07/2017  06:45 AM                 0 text.txt
+11/14/2014  11:53 AM             1,352 to-top.png
+11/14/2014  11:53 AM             1,211 to-top@2x.png
+05/18/2015  09:32 AM               191 tracking-arrow.png
+05/18/2015  09:32 AM               273 tracking-arrow@2x.png
+              30 File(s)        477,284 bytes
+               6 Dir(s)  61,017,800,704 bytes free
